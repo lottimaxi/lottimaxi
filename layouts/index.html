@@ -1,0 +1,6 @@
+{{ define "main" }}
+  <p >{{ .Site.Params.homeText | markdownify }}</p>
+{{ partial "front-page.html" . }}
+{{ end }}
+
+
