@@ -1,4 +1,5 @@
 baseURL = "https://lottimaxi.github.io"
+#baseURL = "https://lottimaxi.github.io"
 #publishdir = "lottimaxi.github.io"
 languageCode = "en-us"
 title = "Keith's Diary and Other Stuff"
